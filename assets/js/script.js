@@ -11,7 +11,6 @@ const MultimediaModule = (() => {
     };
 })();
 
-// Clase Padre Multimedia
 class Multimedia {
     constructor(url) {
         // Usamos un closure para proteger la URL
